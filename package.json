@@ -1,0 +1,5 @@
+"publish": {
+  "provider": "github",
+  "owner": "GheraseCosmin",
+  "repo": "chat-app-updates"
+}
