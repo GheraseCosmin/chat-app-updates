@@ -1,8 +1,8 @@
-version: 1.0.2
+version: 1.0.3
 files:
-  - url: Chat-App-Setup-1.0.2.exe
-    sha512: CG/5YMRDfjbVUR0AGR6GUxaZs8e+w4P4yR9PtTh+xhY75MFiYCaZdqzWxXrltz4CdD6jciLdCbWdOpav0p6duA==
-    size: 77129502
-path: Chat-App-Setup-1.0.2.exe
-sha512: CG/5YMRDfjbVUR0AGR6GUxaZs8e+w4P4yR9PtTh+xhY75MFiYCaZdqzWxXrltz4CdD6jciLdCbWdOpav0p6duA==
-releaseDate: '2026-03-17T23:48:14.265Z'
+  - url: Chat-App-Setup-1.0.3.exe
+    sha512: +f3e8KBFAdcW2lrf1awQNqcS1bsFROQvIP3GTbqhejc1xS0xdIbmFFoWBMpmVfEs9KkI4W4IgSU5SWTtcx063A==
+    size: 77129505
+path: Chat-App-Setup-1.0.3.exe
+sha512: +f3e8KBFAdcW2lrf1awQNqcS1bsFROQvIP3GTbqhejc1xS0xdIbmFFoWBMpmVfEs9KkI4W4IgSU5SWTtcx063A==
+releaseDate: '2026-03-18T00:08:16.099Z'
