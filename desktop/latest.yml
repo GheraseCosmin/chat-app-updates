@@ -1,8 +1,8 @@
 version: 1.0.6
 files:
-  - url: InnoveChat-Setup-1.0.6.exe
-    sha512: S5r7ztUrfvBeK5AkJyTE18eyctChVR4Z0MhbYiHvfsKoyzx9Y1BZ9yXYt43TapqK/nl9KUZ0TQVtXZMwyCktVg==
-    size: 84552025
-path: InnoveChat-Setup-1.0.6.exe
-sha512: S5r7ztUrfvBeK5AkJyTE18eyctChVR4Z0MhbYiHvfsKoyzx9Y1BZ9yXYt43TapqK/nl9KUZ0TQVtXZMwyCktVg==
-releaseDate: '2026-03-29T18:20:51.903Z'
+  - url: Chat-App-Setup-1.0.6.exe
+    sha512: X8b6GyZJ1ovnNbu1b9pGkZrHc4MtDjEd9O5MIaWdwgRRPFJETQpUYl0pbpkAhhTzytBeHQsF35pyHpY6R7mhsA==
+    size: 81050647
+path: Chat-App-Setup-1.0.6.exe
+sha512: X8b6GyZJ1ovnNbu1b9pGkZrHc4MtDjEd9O5MIaWdwgRRPFJETQpUYl0pbpkAhhTzytBeHQsF35pyHpY6R7mhsA==
+releaseDate: '2026-03-29T21:24:45.004Z'
