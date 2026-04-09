@@ -1,8 +1,8 @@
-version: 1.0.15
+version: 1.0.16
 files:
-  - url: InnoveChat-Setup-1.0.15.exe
-    sha512: 7EIqb9lbWcJhCFptMnzQf3FQVcTCRslYaiJuwGhBSkyu7GYtoIgj7XgEjBilTJ2zs4BwW0Q0hW88jfaETqa95g==
-    size: 85095937
-path: InnoveChat-Setup-1.0.15.exe
-sha512: 7EIqb9lbWcJhCFptMnzQf3FQVcTCRslYaiJuwGhBSkyu7GYtoIgj7XgEjBilTJ2zs4BwW0Q0hW88jfaETqa95g==
-releaseDate: '2026-04-09T16:11:49.578Z'
+  - url: InnoveChat-Setup-1.0.16.exe
+    sha512: F1x+tJ06TpPJ/WFVMXcIpiLDlqVWwr3uvEgW6UtGGPj4Z1Fq+IJrFJ/34jv0S1Xra7+wTqJ/WFeeTxTIPwcgOA==
+    size: 85095976
+path: InnoveChat-Setup-1.0.16.exe
+sha512: F1x+tJ06TpPJ/WFVMXcIpiLDlqVWwr3uvEgW6UtGGPj4Z1Fq+IJrFJ/34jv0S1Xra7+wTqJ/WFeeTxTIPwcgOA==
+releaseDate: '2026-04-09T16:26:13.090Z'
