@@ -1,8 +1,8 @@
-version: 1.0.47
+version: 1.0.48
 files:
-  - url: ChatApp-Setup-1.0.47.exe
-    sha512: tXESN7BUiNCwxUVCHxkoqeItsFAsi9A8FFZSCwBYba9nJjCW4trj7cGNFHZS5NMaTAPk3skXEoc4gIn5OQov3g==
-    size: 85299544
-path: ChatApp-Setup-1.0.47.exe
-sha512: tXESN7BUiNCwxUVCHxkoqeItsFAsi9A8FFZSCwBYba9nJjCW4trj7cGNFHZS5NMaTAPk3skXEoc4gIn5OQov3g==
-releaseDate: '2026-10-06T15:56:12.045Z'
+  - url: ChatApp-Setup-1.0.48.exe
+    sha512: pGMv2RDrHokmSkp/seyT1jsVnVesmqsr8Y2IRaKpwGkR8o41FQvN4TDgrGpIUPTTGnQ2vCgiu7poqBy5//QjQA==
+    size: 85299598
+path: ChatApp-Setup-1.0.48.exe
+sha512: pGMv2RDrHokmSkp/seyT1jsVnVesmqsr8Y2IRaKpwGkR8o41FQvN4TDgrGpIUPTTGnQ2vCgiu7poqBy5//QjQA==
+releaseDate: '2026-10-06T16:28:40.902Z'
